@@ -1,5 +1,6 @@
 # Laravel_Educational_Management_Application
 Laravel Based Educational Managment System With Admin Student Parents Teacher Panel
+First you should have composure installed
 <br>
 Step 1:- Unzip The folder<br>
 Step 2:- Open Cmd command port <br>
